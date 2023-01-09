@@ -5,9 +5,5 @@ platform :ios, '10.0'
 target 'SwiftKit_Example' do
   pod 'SwiftKit', :path => '../'
 
-  target 'SwiftKit_Tests' do
-    inherit! :search_paths
-
-    
-  end
+  
 end
