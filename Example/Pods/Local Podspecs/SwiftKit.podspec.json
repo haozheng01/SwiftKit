@@ -1,7 +1,7 @@
 {
   "name": "SwiftKit",
   "version": "0.1.0",
-  "summary": "A short description of SwiftKit.",
+  "summary": "常用Swift工具",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/修齐/SwiftKit",
   "license": {
@@ -9,10 +9,10 @@
     "file": "LICENSE"
   },
   "authors": {
-    "修齐": "senyuhao_developer@163.com"
+    "修齐": "senyuhao@gmail.com"
   },
   "source": {
-    "git": "https://github.com/修齐/SwiftKit.git",
+    "git": "https://github.com/haozheng01/SwiftKit.git",
     "tag": "0.1.0"
   },
   "platforms": {
